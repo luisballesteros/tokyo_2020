@@ -1,5 +1,4 @@
-# tokyo_2020
-Tokyo 2020 medals
+# Tokyo 2020 medals
 
 ## Developing Data Products: Course Project
 ### Introduction and Overview
