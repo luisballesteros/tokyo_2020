@@ -11,6 +11,12 @@ Included in this project are:
 - a presentation, providing an overview, code examples and link. See https://rpubs.com/luisballesteros/tokyo_2020_presentation
 - the corresponding source code hosted via github. See https://github.com/luisballesteros/tokyo_2020/
 
+
+### UI Examples
+
+![Shiny app](www/tokyo_01.png)
+![Shiny app](www/tokyo_02.jpg)
+
 ### ui.R
 ```
 library(shiny)
